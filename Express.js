@@ -10,6 +10,8 @@ const expenses = [
     {id: 2, date: '1/03/2026', categry: 'Shoes', amounts: 1500}
 ];
 
+// Get all - Read
+
 
 
 app.listen(port, () => {console.log(`This app is listing to port ${port}`)});
